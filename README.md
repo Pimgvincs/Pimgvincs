@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pimgvincs
-- 👀 I’m interested in php, javascript and soo on.
 - 🌱 I’m currently learning computer science
 
 
